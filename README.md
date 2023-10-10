@@ -1,5 +1,4 @@
 # 💫 About Me:
-- 👋 Hi, I’m currently working on data structure.<br>- 👀 Fighting with algorithm.<br>- 🌱 Learning SKILLS.<br>- 💞️ I’m looking to work.
 Enthusiastic civil engineering graduate with a passion for technology and a desire to forge a career in the IT 
 industry with 1.5+ years of quality experience in SQL Server, Database design, Excel, Tableau, Statistics, 
 Machine Learning, Tendor and Quotation Work.
