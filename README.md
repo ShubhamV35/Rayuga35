@@ -1,6 +1,8 @@
 # 💫 About Me:
 - 👋 Hi, I’m currently working on data structure.<br>- 👀 Fighting with algorithm.<br>- 🌱 Learning SKILLS.<br>- 💞️ I’m looking to work.
-
+Enthusiastic civil engineering graduate with a passion for technology and a desire to forge a career in the IT 
+industry with 1.5+ years of quality experience in SQL Server, Database design, Excel, Tableau, Statistics, 
+Machine Learning, Tendor and Quotation Work.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Anime_omen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anime_omen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-vishwakarma-4ba61b168) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/anime_omen) 
